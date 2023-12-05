@@ -1,16 +1,39 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**ArmandMeppa/ArmandMeppa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Armand Meppa, a passionate Full Stack DevOps Engineer. Welcome to my corner of the GitHub universe!
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Full Stack DevOps Engineer | Trainer
+- 🌐 Always exploring new technologies and tools
+- 📚 Lifelong learner and advocate for knowledge sharing
+
+### Technologies
+
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express, Spring Boot
+- **DevOps:** Docker, Kubernetes, Jenkins, GitLab CI/CD
+- **Cloud Platforms:** AWS, Linode, DigitalOcean
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Infrastructure as Code:** Terraform, Ansible
+
+### Skills
+
+- Continuous Integration and Continuous Deployment (CI/CD)
+- Infrastructure Automation
+- Microservices Architecture
+- Containerization and Orchestration
+- Serverless Computing
+- Monitoring and Logging
+- Security Best Practices
+
+## 🌐 Connect with Me
+
+- 📧 Email: meppaarmand@gmail.com
+- 💼 LinkedIn: [Armand Meppa](www.linkedin.com/in/armand-meppa-482450216)
+
+## 📈 GitHub Stats
+
+[![Armand Meppa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArmandMeppa&show_icons=true&count_private=true&hide=issues&theme=dark)](https://github.com/ArmandMeppa)
+
+Feel free to explore my repositories and don't hesitate to reach out for collaboration or questions! Let's build awesome things together. 🚀
