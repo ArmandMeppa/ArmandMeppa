@@ -30,7 +30,7 @@ I'm Armand Meppa, a passionate Full Stack DevOps Engineer. Welcome to my corner 
 ## 🌐 Connect with Me
 
 - 📧 Email: meppaarmand@gmail.com
-- 💼 LinkedIn: [Armand Meppa](www.linkedin.com/in/armand-meppa-482450216)
+- 💼 LinkedIn: [Armand Meppa](https://www.linkedin.com/in/armand-meppa-482450216/)
 
 ## 📈 GitHub Stats
 
